@@ -23,6 +23,7 @@ export default function Home() {
             className="w-full h-full absolute top-0 left-0 object-cover -z-10"
             autoPlay
             loop
+            playsInline
             muted
           >
             <source src="/HELPPP-2.mp4"></source>
