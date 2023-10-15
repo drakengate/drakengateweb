@@ -17,7 +17,7 @@ export default function Home() {
           <a href="presale.drakengate.com">BUY</a>
         </div>
         <div className="flex flex-col items-center ">
-          <Image href="/logodragontwo.png" width={180} height={180} />
+          <Image src="/logodragontwo.png" width={180} height={180} />
           <p className="text-3xl text-white"> Drakengate </p>
         </div>
         <div className="w-[160px]"></div>
