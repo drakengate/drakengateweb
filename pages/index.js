@@ -14,10 +14,10 @@ export default function Home() {
       <div className="flex md:flex-row  flex-col justify-center md:justify-between w-full">
        
         <div className="text-white flex  p-12 text-3xl cursor-pointer  ">
-          <Link href="presale.drakengate.com">BUY</Link>
+          <a href="presale.drakengate.com">BUY</a>
         </div>
         <div className="flex flex-col items-center ">
-          <a href="/logodragontwo.png" width={180} height={180} />
+          <Image href="/logodragontwo.png" width={180} height={180} />
           <p className="text-3xl text-white"> Drakengate </p>
         </div>
         <div className="w-[160px]"></div>
