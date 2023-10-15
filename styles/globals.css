@@ -11,3 +11,15 @@
 
 
 
+@font-face {
+  font-family: 'Pokemon';
+  src: url('/fonts/PokemonHollow.ttf') format('truetype');
+    
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+main {
+  font-family: 'Pokemon', sans-serif;
+}
