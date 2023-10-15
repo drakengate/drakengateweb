@@ -18,7 +18,7 @@ export default function Home() {
 
       <div
         id="#home"
-        className=" px-20 flex flex-col text-xl text-center md:mt-[-220px]   items-center w-screen h-screen bg-cover bg-center "
+        className=" px-20 flex flex-col text-xl text-center mt-[-220px]   items-center w-screen h-screen bg-cover bg-center "
       >
         <div className="flex">
           <video
