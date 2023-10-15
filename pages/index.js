@@ -9,7 +9,7 @@ const tangerine = Tangerine({ weight: "400", subsets: ["latin"] });
 export default function Home() {
   return (
     <main
-      className={`flex  flex-col items-center justify-between  ${young.className}`}
+      className={`flex  flex-col items-center justify-between  `}
     >
       <div className="flex md:flex-row  flex-col justify-center md:justify-between w-full">
        
