@@ -43,7 +43,7 @@ export default function Home() {
         <p className="text-3xl text-white  ">
           Join Now
         </p>
-        <Link href="https://t.me/+8U_Hplv3IoQ0NmU0" >
+        <Link href="t.me/drakengate" >
           <BsTelegram
             className="text-white  mt-2  cursor-pointer"
             size={40}
