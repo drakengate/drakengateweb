@@ -48,7 +48,7 @@ export default function Home() {
           </audio>
           <div className={young.className}>
           <p className="text-white text-center my-12  tracking-wide text-lg">
-            Shadows of Drakensberg: 2042 In 2042, at the foothills of the
+            2042 In 2042, at the foothills of the
             Drakensberg Mountains, a young being named Z Ω B-21 lived in an
             ancient cave. This cave was filled with secrets from beyond time. Z
             Ω B-21 had a natural ability to communicate with dragons and aliens,
