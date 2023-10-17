@@ -59,6 +59,9 @@ export default function Home() {
         </audio>
         <p className="text-white mt-12">Total Supply: 204,242,424,242,424</p>
         <p className="text-white mt-8">Launch Date: Community will decide</p>
+        <div className="text-white text-2xl mt-8">
+          <Link className="underline" target="_blank" href="https://forms.gle/NPiS15wcCzedhbPT9">Join our Team</Link>
+        </div>
         </div>
       </div>
     </main>
