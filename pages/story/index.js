@@ -17,8 +17,8 @@ export default function Home() {
           
         </div>
         <div className="flex flex-col justify-center items-center ">
-          <Image src="/logodragontwo.png" width={180} height={180} />
-          <p className="text-3xl text-white uppercase"> <Link href="/">Drakengate </Link></p>
+          <Image src="/logo.png" width={180} height={180} />
+          <p className="text-3xl mt-4 text-white uppercase"> <Link href="/">Drakengate </Link></p>
         </div>
         <div className="text-white flex justify-center p-4  md:p-12 text-3xl cursor-pointer  ">
          
