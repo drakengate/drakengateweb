@@ -8,7 +8,22 @@
   --background-end-rgb:0, 0, 0;
 }
 
-
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb:  0, 0, 0;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
 
 
 @font-face {
@@ -22,4 +37,5 @@
 
 main {
   font-family: 'Pokemon', sans-serif;
+  background-color: black;
 }
